@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # PetCare Connect
 
 PetCare Connect is a full-stack MERN application that connects pet owners with reliable and verified pet caregivers. It provides a seamless experience for managing pet profiles, booking services, leaving reviews, and managing profiles. 
@@ -192,3 +193,6 @@ npm run dev
 ---
 
 *This project was developed as a college MERN stack mini-project.*
+=======
+# miniprojectcollege
+>>>>>>> 3b17b5ea1b40649a08fc40be71daedb65cec3dd9
